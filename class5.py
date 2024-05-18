@@ -1,6 +1,6 @@
 # Tuples
 
-data_base : list[tuple[str,str]] =[("qasim",'123'),
+data_base: list[tuple[str,str]] =[("qasim",'123'),
                                    ("ali",'345'),
                                    ("ahmed",'12567')]
 
