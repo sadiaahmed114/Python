@@ -17,3 +17,9 @@
 # 📖 *References:*
 # - Python Loops: https://docs.python.org/3/tutorial/co...
 # - Python Input and Output: https://docs.python.org/3/tutorial/in...
+
+name: str = input("what is your name? : \t")
+
+print(type(name))
+
+print(f"Welcome dear User Mr/Mrs {name}!")
